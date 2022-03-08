@@ -3,8 +3,6 @@
 <h3 align="center">Amateur coder who learns new things everyday.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professional-tdi&label=Profile%20views&color=0e75b6&style=flat" alt="professional-tdi/> </p>
-  <br>
-  <hr>
   
 - 🔭 I’m currently working on [Tazspree](https://discord.gg/vdyqqshYtm)  
   
