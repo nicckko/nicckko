@@ -1,7 +1,8 @@
 
+
 <h1 align="center">Hi 👋, I'm Ntdi</h1>  
 <h3 align="center">Amateur coder who learns new things everyday.</h3>  
-  
+ 
   
 - 🔭 I’m currently working on [Tazspree](https://discord.gg/vdyqqshYtm)  
   
