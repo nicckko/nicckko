@@ -4,7 +4,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professional-tdi&label=Profile%20views&color=0e75b6&style=flat" alt="professional-tdi/> </p>
   
-- 🔭 I’m currently working on [Tazspree](https://discord.gg/vdyqqshYtm)  
   
 - 🌱 I’m currently learning **Electron, Comp. Sci.**  
   
