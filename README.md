@@ -4,7 +4,7 @@
 <h3 align="center">Amateur coder who learns new things everyday.</h3>  
  
   
-- 🔭 I’m currently working on [Tazspree](https://discord.gg/vdyqqshYtm)  
+- 🔭 I’m currently working on [Tazspree](https://github.com/tazpvp/tazpvp)  
   
 - 🌱 I’m currently learning **Electron, Comp. Sci.**  
   
