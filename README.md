@@ -12,7 +12,9 @@ I started coding when I was in eighth grade and instant fell in love with it. I 
 *   🚀  I'm currently working on [Tazpvp](http://github.com/tazpvp)
 *   🧠  I'm learning how to make [my own frameworks](https://github.com/professional-tdi/LibTdi).
 *   🤝  I'm open to collaborating on [LibTdi](https://github.com/professional-tdi/LibTdi), a simple Spigot library
-*   ⚡  Im a full-stack developer at this point<a href="https://www.twitter.com/ntditv" target="_blank" rel="noreferrer"><img
+*   ⚡  Im a full-stack developer at this point
+
+<a href="https://www.twitter.com/ntditv" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ntditv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/professional-tdi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/professional-tdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ntditv" target="_blank" rel="noreferrer"><img
@@ -47,7 +49,8 @@ I started coding when I was in eighth grade and instant fell in love with it. I 
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
                     
-                  ### Socials
+                    
+### Socials
                   
                   
                 <p align="left">
