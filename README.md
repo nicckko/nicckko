@@ -9,7 +9,7 @@ Java and Web Developer
 I started coding when I was in eighth grade and instantly fell in love with it. I am a avid minecraft player so my first real language was Java. Probably not the smartest first pick but eh :P. I Learned java through coding minecraft plugins with the [Spigot API](https://www.spigotmc.org/). I then took a big turn west and hoped into web development because I wanted to hop onto the trend and try something new. Fast-forward to now, I have experience in coding sprint boot web aplications, [Spigot](https://www.spigotmc.org/) and [Paper](https://papermc.io/) plugins, and [Coding Unity games in C# (click here to play them they are fun)](https://github.com/tdi-games).
 
 *   🌍  I'm based in North America
-*   🖥️  See my portfolio at [This Link](http://https://professional-tdi.github.io/)
+*   🖥️  See my portfolio at [This Link](http://professional-tdi.github.io/)
 *   ✉️  You can contact me at [me@ntdi.world](mailto:me@ntdi.world)
 *   🚀  I'm currently working on [Tazpvp](http://github.com/tazpvp)
 *   🧠  I'm learning how to make [my own frameworks](https://github.com/professional-tdi/LibTdi).
