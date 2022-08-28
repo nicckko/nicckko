@@ -9,11 +9,8 @@ Fullstack Developer
 *   ✉️  You can contact me at [me@ntdi.world](mailto:me@ntdi.world)
 *   🤝  I'm open to collaborating on [LibTdi](https://github.com/professional-tdi/LibTdi), a simple Spigot library
 
-<a href="https://www.twitter.com/ntditv" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ntditv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/professional-tdi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/professional-tdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ntditv" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/ntditv?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/professional-tdi" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/professional-tdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Badges
 
