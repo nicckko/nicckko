@@ -5,7 +5,7 @@
 
 Fullstack Developer
 ----------------------
-*   🖥️  See my portfolio at [This Link](http://professional-tdi.github.io/)
+*   🖥️  See my portfolio at [This Link](https://ntdi.world)
 *   ✉️  You can contact me at [me@ntdi.world](mailto:me@ntdi.world)
 *   🤝  I'm open to collaborating on [LibTdi](https://github.com/professional-tdi/LibTdi), a simple Spigot library
 
