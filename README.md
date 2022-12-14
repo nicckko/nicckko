@@ -7,10 +7,6 @@ Fullstack Developer
 ----------------------
 *   🖥️  See my portfolio at [This Link](https://ntdi.world)
 *   ✉️  You can contact me at [me@ntdi.world](mailto:me@ntdi.world)
-*   🤝  I'm open to collaborating on [LibTdi](https://github.com/n-tdi/LibTdi), a simple Spigot library
-
-<a href="https://www.github.com/n-tdi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/n-tdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Badges
 
