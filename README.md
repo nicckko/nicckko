@@ -1,14 +1,7 @@
-<h1 align="center">Hi, I'm Ntdi</h1>
+<h1 align="center">Hi, I'm <a href="https://www.ntdi.world">Ntdi</a></h1>
 <p align="center">
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;Open-Source+Enthusiast;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
 </p>
-
-Fullstack Developer
-----------------------
-*   🖥️  See my portfolio at [This Link](https://ntdi.world)
-*   ✉️  You can contact me at [me@ntdi.world](mailto:me@ntdi.world)
-
-### Badges
 
 <b>My GitHub Stats</b>
 
