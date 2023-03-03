@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRIC_TOKEN }}
 
           # Options
-          user: n-tdi
+          user: nicckko
           template: classic
           base: header, activity
           config_timezone: America/NY
