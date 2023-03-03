@@ -4,6 +4,6 @@
 </p>
 
 <p> I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
-<p> Been coding since 2018 </p>
+<p> I've been coding since 2018 and you can expect extremely dumb projects here. </p>
 
 <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a>
