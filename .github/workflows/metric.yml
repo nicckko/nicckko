@@ -18,7 +18,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ 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 }}
+          token: ${{ secrets.METRIC_TOKEN }}
 
           # Options
           user: nicckko
