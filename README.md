@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://www.ntdi.world">Ntdi</a></h1>
+<h1 align="center">Hey, I'm Nick</a></h1>
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Web+Developer;Open-Source+Enthusiast;Java+Developer;Spigot-API%20Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Signature+Idiot;Dumb+Ass;&center=true&width=500&height=50"></a>
 </p>
-
-### Talk to [My Cat!](https://tia.ntdi.world)
 
 ![Metric](/github-metrics.svg)
 
