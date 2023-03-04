@@ -6,4 +6,6 @@
 <p> I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
 <p> I've been coding since 2018 and you can expect extremely dumb projects here. </p>
 
-<a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nick's GitHub stats" /></a>
+![Metric](/github-metrics.svg)
+
+<a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicckko's GitHub stats" /></a>
