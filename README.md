@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Nick</a></h1>
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Signature+Idiot;Dumb+Ass;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Signature+Idiot;Open-Source+Developer;Hardware+Hacker;Software+Developer;&center=true&width=500&height=50"></a>
 </p>
 
 <p> I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
