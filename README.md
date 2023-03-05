@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="nicckko.github.io">Nick</a></h1>
+<h1 align="center">Hey, I'm <a href="www.nicckko.com">Nick</a></h1>
 <p align="center">
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Signature+Idiot;Open-Source+Enthusiast;Hardware+Hacker;Software+Developer;&center=true&width=500&height=50"></a>
 </p>
