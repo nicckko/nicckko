@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.google.com/specimen/Fira+Code">
 </head>
 
-<body>
+<body align="center">
 <h1 align="center">Hey, I'm <a href="https://www.nicckko.com">Nick</a></h1>
 <p align="center">
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechanical-Engineer;Hardware+Hacker;Electrical-Engineer;Software+Developer;Fullstack-Developer;Sim-Racer;&center=true&width=500&height=50"></a>
