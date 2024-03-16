@@ -16,7 +16,7 @@
   
   ![Metric](/github-metrics.svg)
   
-  <a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&theme=merko" alt="nicckko's GitHub stats" /></a>
+  <a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&theme=tokyonight" alt="nicckko's GitHub stats" /></a>
 </div>
 
 </body>
