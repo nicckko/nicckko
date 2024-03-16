@@ -9,10 +9,10 @@
 </p>
 
 <div align="center">
-  <p > I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
-  <p> I've been coding since 2018 and you can expect extremely dumb projects here. </p>
-  <p> Spend most of my time modifying and repairing old game consoles </p>
-  <p> I've worked on almost every Nintendo console available in the United States. </p>
+  <h2 > I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
+  <h2> I've been coding since 2018 and you can expect extremely dumb projects here. </p>
+  <h2> Spend most of my time modifying and repairing old game consoles </p>
+  <h2> I've worked on almost every Nintendo console available in the United States. </p>
   
   ![Metric](/github-metrics.svg)
   
