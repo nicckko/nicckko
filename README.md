@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">Hey, I'm <a href="https://www.nicckko.com">Nick</a></h1>
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Signature+Idiot;Open-Source+Enthusiast;Hardware+Hacker;Software+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechanical-Engineer;Hardware+Hacker;Electrical-Engineer;Software+Developer;Fullstack-Developer;Sim-Racer;&center=true&width=500&height=50"></a>
 </p>
 
 <p> I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
