@@ -1,3 +1,12 @@
+<head>
+<link rel="stylesheet" href="https://fonts.google.com/specimen/Fira+Code">
+<style>
+body {
+  font-family: "Fira Coda", sans-serif;
+}
+</style>
+</head>
+
 <body>
 <h1 align="center">Hey, I'm <a href="https://www.nicckko.com">Nick</a></h1>
 <p align="center">
@@ -12,5 +21,4 @@
 ![Metric](/github-metrics.svg)
 
 <a href="http://www.github.com/nicckko"><img src="https://github-readme-stats.vercel.app/api?username=nicckko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicckko's GitHub stats" /></a>
-
 </body>
