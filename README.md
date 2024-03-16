@@ -8,7 +8,7 @@
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechanical-Engineer;Hardware+Hacker;Electrical-Engineer;Software+Developer;Fullstack-Developer;Sim-Racer;&center=true&width=500&height=50"></a>
 </p>
 
-<div align="center">
+<div align="center">$${\color{red}Red}$$
   <r3 > I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </p>
   <r3> I've been coding since 2018 and you can expect extremely dumb projects here. </p>
   <r3> Spend most of my time modifying and repairing old game consoles </p>
