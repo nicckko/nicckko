@@ -9,10 +9,10 @@
 </p>
 
 <div align="center">
-  <h4 > I build things that generally serve no purpose. Mainly code in Python and C++, but able to code in Swift, Node.JS, and HTML too. </h4>
-  <h4> I've been coding since 2018 and you can expect extremely dumb projects here. </h4>
-  <h4> Spend most of my time modifying and repairing old game consoles </h4>
-  <h4> I've worked on almost every Nintendo console available in the United States. </h4>
+  <h4 > I am a high school student who codes in Python, C++, Node.JS, and Javascript. </h4>
+  <h4> When I am not at school, I tutor kids in STEAM (Math, Coding, Chemistry, etc...). </h4>
+  <h4> Some of my hobbies include sim racing, game console restoration, and the Legend of Zelda. </h4>
+  <h4> If you're interested in working with me or maybe need a tutor, contact me through my website. </h4>
   
   ![Metric](/github-metrics.svg)
   
